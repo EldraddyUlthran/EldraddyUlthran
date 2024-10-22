@@ -1,9 +1,9 @@
 ### Welcome to my page!
 
-Basic projects, skills, and cybersecurity fun 👾
-Left corporate PR to do this every day 👨🏻‍💻
-Sec+ certified, A+ next 🎓
-IT and cyber infrastructure nerd. 🤖
+Basic projects, skills, and cybersecurity fun 👾<br>
+Left corporate PR to do this every day 👨🏻‍💻<br>
+Sec+ certified, A+ next 🎓<br>       
+IT and cyber infrastructure nerd. 🤖<br>
 
 <!-- Github stats taken from https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
 ![EldraddyUlthran's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldraddyUlthran&show_icons=true&theme=synthwave)
