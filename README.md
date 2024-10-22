@@ -2,7 +2,7 @@
 
 Basic projects, skills, and cybersecurity fun 👾<br>
 Left corporate PR to do this every day 👨🏻‍💻<br>
-Sec+ certified, A+ next 🎓<br>       
+Sec+ certified, A+ next 🎓<br>
 IT and cyber infrastructure nerd. 🤖<br>
 
 <!-- Github stats taken from https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
